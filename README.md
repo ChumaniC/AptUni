@@ -26,4 +26,5 @@ Monetization for the plaform can be achieved through ads from the various higher
 ![](demonstration/15.Dashboard_Pt_2.png)
 
 # Video Demo
-![](demonstration/aptuni-video.mp4)
+![]()
+[![Watch the video](demonstration/aptuni-video.mp4)](demonstration/aptuni-video.mp4)
