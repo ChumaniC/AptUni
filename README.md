@@ -10,3 +10,20 @@ Monetization for the plaform can be achieved through ads from the various higher
 # Screenshots
 
 ![](demonstration/1.Landing_Page.png)
+![](demonstration/2.SignIn_Form.png)
+![](demonstration/3.SignUp_Form.png)
+![](demonstration/4.Numerical_Test.png)
+![](demonstration/5.Diagrammatic_Test.png)
+![](demonstration/6.Situational_Test.png)
+![](demonstration/7.Verbal_Test.png)
+![](demonstration/8.Test_Selection.png)
+![](demonstration/9.Test_Instruction.png)
+![](demonstration/10.Test.png)
+![](demonstration/11.Test_Diagrammatic.png)
+![](demonstration/12.Test_Situational.png)
+![](demonstration/13.Test_Verbal.png)
+![](demonstration/14.Dashboard_Pt_1.png)
+![](demonstration/15.Dashboard_Pt_2.png)
+
+# Video Demo
+![](demonstration/aptuni-video.mp4)
