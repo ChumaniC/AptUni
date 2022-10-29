@@ -6,3 +6,7 @@ Based upon the APS (Admission Point Score) calculated from the user's matric res
 categories of tests, the algorithm generates the most likely higher education institution, undergraduate programme and
 most likely career choice (with links) based upon these scores.
 Monetization for the plaform can be achieved through ads from the various higher education institutions who wish to promote their institutions and programmes. 
+
+# Screenshots
+
+![](demonstration/1.Landing_Page.png)
